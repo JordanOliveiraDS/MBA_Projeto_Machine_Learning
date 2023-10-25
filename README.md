@@ -1,2 +1,2 @@
-# MBA_Projeto_Machine_Learninga
+# MBA_Projeto_Machine_Learning
 Classificação Vinhos
